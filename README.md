@@ -9,4 +9,4 @@ https: to be updated (in press)
 "Changes in Tropical Cyclones undergoing Extratropical Transition in a Warming Climate: Quasi-Idealized Numerical Experiments of North Atlantic Landfalling" 
 by Chunyong Jung and Gary M. Lackmann
 
-* Model output from the simulations presented in this manuscript is stored on the NCSU Hazel Cluster. Please contact the corresponding author (cjung2@anl.gov) for details on access to these data. 
+* Model input, including met_em files, wrfinput_d01 and wrfbdy_d01, and output for the simulations presented in this manuscript is stored on the NCSU Hazel Cluster. Please contact the corresponding author (cjung2@anl.gov) for details on access to these data. 
